@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header_content{
+    background-image:linear-gradient(#0009), url(../src/assets/img/Header.jpg);
+    background-size: cover;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+}
+
+.card-content{
+    max-width: 500px;
+}
